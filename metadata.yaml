@@ -1,10 +1,16 @@
 _repo: Hints-on-Mountain-Lion-Trapping-USDA-Leaflet-No-94_48711
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48711-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Stanley P.
     gutenberg_agent_id: '44407'
     url: http://www.gutenberg.org/2009/agents/44407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48711#Hints-on-Mountain-Lion-Trapping-USDA-Leaflet-No-94
 gutenberg_issued: '2015-04-15'
 gutenberg_type: Text
 identifiers:
